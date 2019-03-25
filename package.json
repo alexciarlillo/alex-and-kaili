@@ -18,7 +18,7 @@
         "laravel-mix-purgecss": "^4.1.0",
         "node-cmd": "^3.0.0",
         "postcss-import": "^12.0.1",
-        "tailwindcss": "^0.7.4",
+        "tailwindcss": "^1.0.0-beta.3",
         "vue-template-compiler": "^2.6.8",
         "yargs": "^4.6.0"
     }

@@ -19,7 +19,7 @@ mix.js('source/_assets/js/main.js', 'js')
         processCssUrls: false,
         postCss: [
           require('postcss-import'),
-          tailwindcss('./tailwind.js'),
+          tailwindcss('./tailwind.config.js'),
         ]
     }).purgeCss({
       folders: ['source'],
