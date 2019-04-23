@@ -25,21 +25,18 @@ module.exports = {
         300: '#cfd8a1',
         200: '#bcea9b',
         100: '#effae5'
-      }
+      },
+
+      white: '#ffffff',
+      transparent: 'rgba(0,0,0,0)'
     },
 
     fontFamily: {
       'hobbiton': [
         'Hobbiton Brushhand',
       ],
-      'kelt': [
-        'Kelt',
-      ],
-      'party': [
-        'Party Business',
-      ],
-      'first-order': [
-        'First Order'
+      'info': [
+        'Dancing Script'
       ]
     }
   }
