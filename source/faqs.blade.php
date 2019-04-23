@@ -21,44 +21,40 @@
                     Frequently Asked Questions
                 </p>
 
-                <div class="mx-auto flex flex-col items-center mt-12">
-                    <div class="flex flex-between justify-start pb-12 mt-6">
-                        <span class="text-4xl mr-4">Will there be alcohol?</span>
-                        <p class="ml-4 text-3xl min-w-md">
-                            You betcha. There will not be an open bar, however we will be proving plenty of beer, wine and a handful of cocktails.
+                <div class="mx-auto flex flex-col items-center mt-8">
+                    <div class="flex flex-between justify-start pb-12">
+                        <span class="text-4xl w-1/4 border-r pr-6">Will there be alcohol?</span>
+                        <p class="text-3xl w-3/4 pl-6">
+                            You betcha. There will not be an open bar, however we will be providing plenty of beer, wine and a few select cocktails.
                         </p>
                     </div>
-                    <div class="w-full border-b border-neutral-200"></div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center">
-                    <div class="flex flex-between justify-start pb-12 mt-6">
-                        <span class="text-4xl mr-4">What will the food be?</span>
-                        <p class="ml-4 text-3xl min-w-md">
+                <div class="mx-auto flex flex-col items-center mt-8">
+                    <div class="flex flex-between justify-start pb-12">
+                        <span class="text-4xl w-1/4 border-r pr-6">What will the food be?</span>
+                        <p class="text-3xl w-3/4 pl-6">
                             Backyard BBQ fare. Pulled pork, brisket, mac'n'cheese... and some other stuff. Desert will be like cookies and stuff.
                         </p>
                     </div>
-                    <div class="w-full border-b border-neutral-200"></div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center mt-12">
-                    <div class="flex flex-between justify-start pb-12 mt-6">
-                        <span class="text-4xl mr-4">What if it rains?</span>
-                        <p class="ml-4 text-3xl min-w-md">
-                            We have no alternate plan for rain. If it's in the forecast dress appropriately and bring an umbrella. There will be a large tent, covered gazebo and porch areas, but other than that you are on your own.
+                <div class="mx-auto flex flex-col items-center mt-8">
+                    <div class="flex flex-between justify-start pb-12">
+                        <span class="text-4xl w-1/4 border-r pr-6">What if it rains?</span>
+                        <p class="text-3xl w-3/4 pl-6">
+                            We have no alternate plan for rain. If it's in the forecast dress appropriately and bring an umbrella. There will be a large tent, covered gazebo and porch areas, but other than that you're on your own.
                         </p>
                     </div>
-                    <div class="w-full border-b border-neutral-200"></div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center mt-12">
-                    <div class="flex flex-between justify-start pb-12 mt-6">
-                        <span class="text-4xl mr-4">What should I wear?</span>
-                        <p class="ml-4 text-3xl min-w-md">
+                <div class="mx-auto flex flex-col items-center mt-8">
+                    <div class="flex flex-between justify-start pb-12">
+                        <span class="text-4xl w-1/4 border-r pr-6">What should I wear?</span>
+                        <p class="text-3xl w-3/4 pl-6">
                             Whatever you want. Probably nothing too fancy. Definitely not formal attire. Something weather appropriate.
                         </p>
                     </div>
-                    <div class="w-full border-b border-neutral-200"></div>
                 </div>
             </div>
 
