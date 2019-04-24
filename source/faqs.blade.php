@@ -10,48 +10,51 @@
             </div>
 
             <div class="flex flex-wrap md:flex justify-center md:items-center md:justify-around mt-12 font-info text-xl md:text-4xl">
-                <a class="bg-transparent text-purple-900 px-6 border-b border-purple-900 mb-6 md:mb-0" href="/">~ Home ~</a>
+                <a class="bg-transparent text-purple-900 px-6 border-transparent border-b hover:border-purple-900 mb-6 md:mb-0" href="/">~ Home ~</a>
                 <a class="bg-transparent text-purple-900 px-6 border-transparent border-b hover:border-purple-900 mb-6 md:mb-0" href="/schedule">~ Schedule ~</a>
                 <a class="bg-transparent text-purple-900 px-6 border-transparent border-b hover:border-purple-900 mb-6 md:mb-0" href="/lodging">~ Lodging ~</a>
-                <a class="bg-transparent text-purple-900 px-6 border-transparent border-b hover:border-purple-900 mb-6 md:mb-0" href="/faqs">~ FAQs ~</a>
+                <a class="bg-transparent text-purple-900 px-6 border-b border-purple-900 mb-6 md:mb-0" href="/faqs">~ FAQs ~</a>
             </div>
 
-            <div class="min-w-sm max-w-4xl mx-auto font-info text-4xl text-purple-900 leading-tight mt-12">
+            <div class="min-w-sm max-w-4xl mx-auto font-info text-4xl text-purple-900 leading-tight mt-12 px-4">
                 <p class="font-bold mt-6 mb-6 text-center">
                     Frequently Asked Questions
                 </p>
 
-                <div class="mx-auto flex flex-col items-center mt-8">
-                    <div class="flex flex-between justify-start pb-12">
-                        <span class="text-4xl w-1/4 border-r pr-6">Will there be alcohol?</span>
-                        <p class="text-3xl w-3/4 pl-6">
+                <div class="mx-auto flex items-center mt-8">
+                    <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
+                        <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">Will there be alcohol?</span>
+                        <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
                             You betcha. There will not be an open bar, however we will be providing plenty of beer, wine and a few select cocktails.
                         </p>
+                        <div class="w-full border-b border-neutral-200 md:border-0 pt-4"></div>
                     </div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center mt-8">
-                    <div class="flex flex-between justify-start pb-12">
-                        <span class="text-4xl w-1/4 border-r pr-6">What will the food be?</span>
-                        <p class="text-3xl w-3/4 pl-6">
+                <div class="mx-auto flex items-center mt-8">
+                    <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
+                        <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What will the food be?</span>
+                        <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
                             Backyard BBQ fare. Pulled pork, brisket, mac'n'cheese... and some other stuff. Desert will be like cookies and stuff.
                         </p>
+                        <div class="w-full border-b border-neutral-200 md:border-0 pt-4"></div>
                     </div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center mt-8">
-                    <div class="flex flex-between justify-start pb-12">
-                        <span class="text-4xl w-1/4 border-r pr-6">What if it rains?</span>
-                        <p class="text-3xl w-3/4 pl-6">
+                <div class="mx-auto flex items-center mt-8">
+                    <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
+                        <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What if it rains?</span>
+                        <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
                             We have no alternate plan for rain. If it's in the forecast dress appropriately and bring an umbrella. There will be a large tent, covered gazebo and porch areas, but other than that you're on your own.
                         </p>
+                        <div class="w-full border-b border-neutral-200 md:border-0 pt-4"></div>
                     </div>
                 </div>
 
-                <div class="mx-auto flex flex-col items-center mt-8">
-                    <div class="flex flex-between justify-start pb-12">
-                        <span class="text-4xl w-1/4 border-r pr-6">What should I wear?</span>
-                        <p class="text-3xl w-3/4 pl-6">
+                <div class="mx-auto flex items-center mt-8">
+                    <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
+                        <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What should I wear?</span>
+                        <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
                             Whatever you want. Probably nothing too fancy. Definitely not formal attire. Something weather appropriate.
                         </p>
                     </div>
