@@ -21,7 +21,7 @@
             </div>
 
             <div class="text-center font-info text-5xl text-purple-900 leading-tight font-bold mt-12 pb-6">
-                <div>Sunday August 10, 2019 @ 5:00pm</div>
+                <div>Saturday August 10, 2019 @ 5:00pm</div>
                 <div class="mt-6">Chardon, OH</div>
             </div>
 
