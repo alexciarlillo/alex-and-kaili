@@ -21,11 +21,15 @@
                     Frequently Asked Questions
                 </p>
 
+                <p class="mt-4 mb-6 text-center text-3xl">
+                    We will continue to update this section as we approach the date. Please check back if your question is not addressed, or just reach out to us and we'll do our best to figure it out.
+                </p>
+
                 <div class="mx-auto flex items-center mt-8">
                     <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
                         <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">Will there be alcohol?</span>
                         <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
-                            You betcha. There will not be an open bar, however we will be providing plenty of beer, wine and a few select cocktails.
+                            You betcha. We will be providing plenty of beer, wine and a few select cocktails.
                         </p>
                         <div class="w-full border-b border-neutral-200 md:border-0 pt-4"></div>
                     </div>
@@ -55,7 +59,16 @@
                     <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
                         <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What should I wear?</span>
                         <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
-                            Whatever you want. Probably nothing too fancy. Definitely not formal attire. Something weather appropriate.
+                            Whatever you want. Probably nothing too fancy. Casual attire is fine. Something weather appropriate.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="mx-auto flex items-center mt-8">
+                    <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
+                        <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">Where should I park?</span>
+                        <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
+                            It will be mostly street parking. We are trying to keep the driveway clear so that anyone with limited mobility can be dropped off easily. If we plan on having you to park somewhere else, we'll be in touch.
                         </p>
                     </div>
                 </div>

@@ -16,18 +16,51 @@
                 <a class="bg-transparent text-purple-900 px-6 border-transparent border-b hover:border-purple-900 mb-6 md:mb-0" href="/faqs">~ FAQs ~</a>
             </div>
 
-            <div class="font-info text-4xl text-purple-900 leading-tight mt-12 px-6">
+            <div class="font-info text-4xl text-purple-900 leading-tight mt-12 px-6 pb-6">
                 <p>
-                    A block of rooms has been reserved at X, under the name Z.
+                    We will reserve a block of rooms at the newly constructed Holiday Inn once they are open for business. We will provide the details and updated information ASAP, please check back.
                 </p>
 
-                <p>
-                    Here is the address
-                </p>
+                <div class="ml-4 mt-8">
+                    <div class="font-bold">
+                        Holiday Express & Suites
+                    </div>
+                    <div>
+                        11200 Gold Ct.
+                    </div>
+                    <div>
+                        Painesville, OH 44077
+                    </div>
+                </div>
 
-                <p>
-                    Alternate lodging options are:
-                </p>
+                <div class="mt-12 mb-12 text-center">Alternative Lodging Options</div>
+
+                <div class="ml-4 mt-8">
+                    <div class="font-bold">
+                        Comfort Inn
+                    </div>
+                    <div>
+                        7581 Auburn Rd.
+                    </div>
+                    <div>
+                        Painesville, OH 44077
+                    </div>
+                </div>
+
+                <div class="ml-4 mt-8">
+                    <div class="font-bold">
+                        Quail Hollow Resort
+                    </div>
+                    <div>
+                        11080 Concord Hambden Rd.
+                    </div>
+                    <div>
+                        Painesville, OH 44077
+                    </div>
+                    <div class="text-3xl">
+                        * This place DOES NOT have good reviews... but it has a pool?
+                    </div>
+                </div>
             </div>
 
         </div>
