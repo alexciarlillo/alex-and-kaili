@@ -22,7 +22,7 @@
                 </p>
 
                 <div class="ml-4 mt-8">
-                    <div class="font-bold">
+                    <div class="font-bold mb-4">
                         Holiday Express & Suites
                     </div>
                     <div>
@@ -35,8 +35,8 @@
 
                 <div class="mt-12 mb-12 text-center">Alternative Lodging Options</div>
 
-                <div class="ml-4 mt-8">
-                    <div class="font-bold">
+                <div class="ml-4 mt-12">
+                    <div class="font-bold mb-4">
                         Comfort Inn
                     </div>
                     <div>
@@ -47,8 +47,8 @@
                     </div>
                 </div>
 
-                <div class="ml-4 mt-8">
-                    <div class="font-bold">
+                <div class="ml-4 mt-12">
+                    <div class="font-bold mb-4">
                         Quail Hollow Resort
                     </div>
                     <div>
@@ -60,6 +60,13 @@
                     <div class="text-3xl">
                         * This place DOES NOT have good reviews... but it has a pool?
                     </div>
+                </div>
+
+                <div class="ml-4 mt-12">
+                    <div class="font-bold mb-4">
+                        Camping
+                    </div>
+                    Friends and family are also welcome to camp out in the backyard and join us for mimosas in the morning. BYOT (bring your own tent).
                 </div>
             </div>
 
