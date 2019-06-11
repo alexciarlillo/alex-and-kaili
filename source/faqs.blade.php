@@ -59,7 +59,7 @@
                     <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
                         <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What should I wear?</span>
                         <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
-                            Whatever you want. Probably nothing too fancy. Casual attire is fine. Something weather appropriate.
+                            Whatever you want. Casual attire is fine. Something weather appropriate.
                         </p>
                     </div>
                 </div>
