@@ -21,6 +21,8 @@
                     We have reserved a block of rooms at the Holiday Inn Express which is about a 10 minute drive from the wedding location. The block is reserved under "Boarman-Ciarlillo Wedding".
                 </p>
 
+                <p>Please book by July 15 in order to receive the block room discount.</p>
+
                 <div class="ml-4 mt-8">
                     <div class="font-bold mb-4">
                         Holiday Express & Suites
