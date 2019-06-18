@@ -18,7 +18,7 @@
 
             <div class="font-info text-4xl text-purple-900 leading-tight mt-12 px-6 pb-6">
                 <p>
-                    We will reserve a block of rooms at the newly constructed Holiday Inn once they are open for business. We will provide the details and updated information ASAP, please check back.
+                    We have reserved a block of rooms at the Holiday Inn Express which is about a 10 minute drive from the wedding location. The block is reserved under "Boarman-Ciarlillo Wedding".
                 </p>
 
                 <div class="ml-4 mt-8">
@@ -30,6 +30,9 @@
                     </div>
                     <div>
                         Painesville, OH 44077
+                    </div>
+                    <div>
+                        (440) 898-0900
                     </div>
                 </div>
 
