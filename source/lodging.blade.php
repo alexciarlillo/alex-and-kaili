@@ -69,7 +69,7 @@
                     <div class="font-bold mb-4">
                         Camping
                     </div>
-                    Friends and family are also welcome to camp out in the backyard and join us for mimosas in the morning. BYOT (bring your own tent).
+                    Friends and family are also welcome to camp out in the backyard and join us for mimosas in the morning. BYOT (bring your own tent) and let one of us know if you plan on doing so.
                 </div>
             </div>
 
