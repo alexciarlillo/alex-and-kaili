@@ -24,8 +24,8 @@
                 <p>Please book by July 15 in order to receive the block room discount.</p>
 
                 <div class="ml-4 mt-8">
-                    <div class="font-bold mb-4">
-                        Holiday Express & Suites
+                    <div class="font-bold mb-4 hover:underline">
+                        <a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/painesville/pvzcr/hoteldetail">Holiday Express & Suites</a>
                     </div>
                     <div>
                         11200 Gold Ct.
