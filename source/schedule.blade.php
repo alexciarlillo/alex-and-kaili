@@ -23,7 +23,7 @@
 
                 <div class="flex-col items-center">
                     <div class="flex flex-wrap justify-center pb-12 mt-6">
-                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">5:00pm</span>
+                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">5:30pm</span>
                         <p class="text-3xl min-w-md md:w-3/4 md:pl-4">
                             A brief ceremony will be held in the backyard. We have no indoor alternate location planned, so if it calls for rain please bring an umbrella.
                         </p>
@@ -33,7 +33,7 @@
 
                 <div class="flex-col items-center">
                     <div class="flex flex-wrap justify-center pb-12 mt-6">
-                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">5:30pm</span>
+                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">6:00pm</span>
                         <p class="text-3xl min-w-md md:w-3/4 md:pl-4">
                             Grab a drink and find a seat. There will be a large tent area with seating as well as scattered tables. There are no assigned seats, so figure it out.
                         </p>
@@ -43,7 +43,7 @@
 
                 <div class="flex-col items-center">
                     <div class="flex flex-wrap justify-center pb-12 mt-6">
-                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">6:30pm</span>
+                        <span class="text-4xl pb-6 md:pr-4 md:w-1/4">7:00pm</span>
                         <p class="text-3xl min-w-md md:w-3/4 md:pl-4">
                             Dinner will be served. It is buffet style, and it will be un-organized and chaotic. Best of luck.
                         </p>
