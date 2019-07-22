@@ -39,7 +39,7 @@
                     <div class="flex flex-wrap text-center md:text-left justify-center items-center pb-12">
                         <span class="text-5xl w-full text-bold md:text-4xl md:w-1/4 md:pr-4">What will the food be?</span>
                         <p class="border-0 text-3xl w-full pt-6 md:w-3/4 md:pl-4 md:border-l">
-                            Backyard BBQ fare. Pulled pork, brisket, mac'n'cheese... and some other stuff. Desert will be like cookies and stuff.
+                            Backyard BBQ fare. Pulled pork, brisket, mac'n'cheese... and some other stuff. Dessert will be like cookies and stuff.
                         </p>
                         <div class="w-full border-b border-neutral-200 md:border-0 pt-4"></div>
                     </div>

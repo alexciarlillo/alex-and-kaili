@@ -66,13 +66,6 @@
                         * This place DOES NOT have good reviews... but it has a pool?
                     </div>
                 </div>
-
-                <div class="ml-4 mt-12">
-                    <div class="font-bold mb-4">
-                        Camping
-                    </div>
-                    Friends and family are also welcome to camp out in the backyard and join us for mimosas in the morning. BYOT (bring your own tent) and let one of us know if you plan on doing so.
-                </div>
             </div>
 
         </div>
